@@ -14,7 +14,7 @@ Does the robot detects garbage and move OR Does the robot move and detects garba
 * Classify garbage(items) </n>
 ```shell
 Using torchvision pre-trained model (FasterRCNN / MaskRCNN / Others) + openCV
-Use CUDA + Cudnn for GPU acceleration and try TensorRT if applicable
+Use GPU accelerations CUDA + cudnn and try TensorRT if using tensorflow
 ```
 * Collect garbage </n>
 ```shell
