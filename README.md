@@ -2,9 +2,11 @@
 This Github project documents our work for the coursework of EE4-Human Centered Robotics 
 
 # Garbage Collector
-## Objective
+## Objectives
 * Detects garbage </n>
-
+```shell
+This could pontentially involve SLAM where we need to perform mapping and mark object location on the map
+```
 * Classify garbage(items) </n>
 
 * Collect garbage </n>
