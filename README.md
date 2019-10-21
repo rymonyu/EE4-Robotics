@@ -37,3 +37,16 @@ Remote Servers
 > * ABB YuMi?
 >
 > * PLC if already embedded within the robot
+
+## Docker
+Linux Ubuntu 16.04 <br>
+ROS Kinetic <br>
+
+
+## Work Distribution
+Navigation: Vincent Luo, Che Zhang, JinMing Hu, Haojun Zhang <br>
+Speech Recognition: Haojun Zhang, JinMing Hu <br>
+Vision + Classification: Rymon Yu, Yuzhuo Tan <br>
+Robotics Arm Control: Rymon Yu  <br>
+ROS: Vincent Luo, Rymon Yu  <br>
+Report: Che Zhang  <br>
