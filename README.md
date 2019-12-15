@@ -4,7 +4,9 @@ This Github project documents our work for the coursework of EE4-Human Centered 
 # Graby
 
 GRABY (Genuine Robust Assistant that Benefits You) is an assistance robot that targets the disabled person. It interacts with the user through an audio input i.e. speech, perform daily tasks for the disabled person, bringing convenience to improve the quality of life to such a minority group. The initial focus of the project is to limit the tasks to retrieving and returning items. This design report aims to describe the hypotheses, high-level design, the algorithm used and validation to better illustrate the effectiveness of the robot in improving lives.  
-<\n>
+
+<br>
+<br>
 
 ## Design Overview
 
