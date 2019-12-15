@@ -1,0 +1,17 @@
+Symlinking /home/rob/baxter/devel/include/snowboy_ros/SnowboyReconfigureConfig.h
+Symlinking /home/rob/baxter/devel/share/snowboy_ros/cmake/snowboy_rosConfig.cmake
+Symlinking /home/rob/baxter/devel/share/snowboy_ros/cmake/snowboy_rosConfig-version.cmake
+Symlinking /home/rob/baxter/devel/share/snowboy_ros/docs/SnowboyReconfigureConfig.wikidoc
+Symlinking /home/rob/baxter/devel/share/snowboy_ros/docs/SnowboyReconfigureConfig.dox
+Symlinking /home/rob/baxter/devel/share/snowboy_ros/docs/SnowboyReconfigureConfig-usage.dox
+Symlinking /home/rob/baxter/devel/lib/libhotword_detector.so
+Symlinking /home/rob/baxter/devel/lib/pkgconfig/snowboy_ros.pc
+Symlinking /home/rob/baxter/devel/lib/python2.7/dist-packages/snowboy_ros/__init__.py
+Symlinking /home/rob/baxter/devel/lib/python2.7/dist-packages/snowboy_ros/cfg/SnowboyReconfigureConfig.py
+Symlinking /home/rob/baxter/devel/lib/python2.7/dist-packages/snowboy_ros/cfg/__init__.py
+Symlinking /home/rob/baxter/devel/lib/snowboy_ros/hotword_detector_node3
+Symlinking /home/rob/baxter/devel/lib/snowboy_ros/hotword_detector_node6
+Symlinking /home/rob/baxter/devel/lib/snowboy_ros/hotword_detector_node4
+Symlinking /home/rob/baxter/devel/lib/snowboy_ros/hotword_detector_node2
+Symlinking /home/rob/baxter/devel/lib/snowboy_ros/hotword_detector_node
+Symlinking /home/rob/baxter/devel/lib/snowboy_ros/hotword_detector_node5

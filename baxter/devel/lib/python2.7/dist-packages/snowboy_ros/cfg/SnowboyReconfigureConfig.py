@@ -1,0 +1,1 @@
+/home/rob/baxter/devel/.private/snowboy_ros/lib/python2.7/dist-packages/snowboy_ros/cfg/SnowboyReconfigureConfig.py

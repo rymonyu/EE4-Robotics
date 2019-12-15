@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<launch>
+    <arg name="publish_wave" default="false" />
+
+    <node name="audio_capture" pkg="audio_capture" type="audio_capture" output="screen" required="true">
+        <param name="format" value="wave" />
+        <param name="channels" value="1" />
+        <param name="depth" value="16" />
+        <param name="sample_rate" value="16000" />
+
+        <remap from="audio" to="microphone" />
+    </node>
+
+    <node pkg="snowboy_ros" type="hotword_detector_node" name="snowboy" required="true">
+        <param name="resource_filename" value="$(find snowboy_ros)/resources/common.res"/>
+        <param name="model_filename" value="$(find snowboy_ros)/resources/graby.pmdl"/>
+        <param name="sensitivity_str" value="0.5" type="str" />
+        <param name="audio_gain" value="1.0"/>
+        <param name="publish_wave" value="$(arg publish_wave)" />
+    </node>
+
+    <node pkg="snowboy_ros" type="hotword_detector_node2" name="snowboy2" required="true">
+        <param name="resource_filename" value="$(find snowboy_ros)/resources/common.res"/>
+        <param name="model_filename" value="$(find snowboy_ros)/resources/apple.pmdl"/>
+        <param name="sensitivity_str" value="0.5" type="str" />
+        <param name="audio_gain" value="1.0"/>
+        <param name="publish_wave" value="$(arg publish_wave)" />
+    </node>
+
+    <node pkg="snowboy_ros" type="hotword_detector_node3" name="snowboy3" required="true">
+        <param name="resource_filename" value="$(find snowboy_ros)/resources/common.res"/>
+        <param name="model_filename" value="$(find snowboy_ros)/resources/banana.pmdl"/>
+        <param name="sensitivity_str" value="0.5" type="str" />
+        <param name="audio_gain" value="1.0"/>
+        <param name="publish_wave" value="$(arg publish_wave)" />
+    </node>
+
+    <node pkg="snowboy_ros" type="hotword_detector_node5" name="snowboy5" required="true">
+        <param name="resource_filename" value="$(find snowboy_ros)/resources/common.res"/>
+        <param name="model_filename" value="$(find snowboy_ros)/resources/Yes.pmdl"/>
+        <param name="sensitivity_str" value="0.5" type="str" />
+        <param name="audio_gain" value="1.0"/>
+        <param name="publish_wave" value="$(arg publish_wave)" />
+    </node>
+
+    <node pkg="snowboy_ros" type="hotword_detector_node6" name="snowboy6" required="true">
+        <param name="resource_filename" value="$(find snowboy_ros)/resources/common.res"/>
+        <param name="model_filename" value="$(find snowboy_ros)/resources/No.pmdl"/>
+        <param name="sensitivity_str" value="0.5" type="str" />
+        <param name="audio_gain" value="1.0"/>
+        <param name="publish_wave" value="$(arg publish_wave)" />
+    </node>
+
+    <node pkg="snowboy_ros" type="hotword_detector_node7" name="snowboy7" required="true">
+        <param name="resource_filename" value="$(find snowboy_ros)/resources/common.res"/>
+        <param name="model_filename" value="$(find snowboy_ros)/resources/thankyou.pmdl"/>
+        <param name="sensitivity_str" value="0.5" type="str" />
+        <param name="audio_gain" value="1.0"/>
+        <param name="publish_wave" value="$(arg publish_wave)" />
+    </node>
+
+    <node pkg="snowboy_ros" type="hotword_detector_node8" name="snowboy8" required="true">
+        <param name="resource_filename" value="$(find snowboy_ros)/resources/common.res"/>
+        <param name="model_filename" value="$(find snowboy_ros)/resources/introduce.pmdl"/>
+        <param name="sensitivity_str" value="0.5" type="str" />
+        <param name="audio_gain" value="1.0"/>
+        <param name="publish_wave" value="$(arg publish_wave)" />
+    </node>
+
+
+</launch>

@@ -1,0 +1,7 @@
+gazebo_ros_pkgs/gazebo_ros_control
+/home/rob/baxter/devel/.private/gazebo_ros_control/cmake.lock /home/rob/baxter/devel/./cmake.lock
+/home/rob/baxter/devel/.private/gazebo_ros_control/share/gazebo_ros_control/cmake/gazebo_ros_controlConfig.cmake /home/rob/baxter/devel/share/gazebo_ros_control/cmake/gazebo_ros_controlConfig.cmake
+/home/rob/baxter/devel/.private/gazebo_ros_control/share/gazebo_ros_control/cmake/gazebo_ros_controlConfig-version.cmake /home/rob/baxter/devel/share/gazebo_ros_control/cmake/gazebo_ros_controlConfig-version.cmake
+/home/rob/baxter/devel/.private/gazebo_ros_control/lib/libdefault_robot_hw_sim.so /home/rob/baxter/devel/lib/libdefault_robot_hw_sim.so
+/home/rob/baxter/devel/.private/gazebo_ros_control/lib/libgazebo_ros_control.so /home/rob/baxter/devel/lib/libgazebo_ros_control.so
+/home/rob/baxter/devel/.private/gazebo_ros_control/lib/pkgconfig/gazebo_ros_control.pc /home/rob/baxter/devel/lib/pkgconfig/gazebo_ros_control.pc

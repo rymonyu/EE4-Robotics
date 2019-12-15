@@ -1,0 +1,33 @@
+[35m[1mScanning dependencies of target snowboy_ros_gencfg[0m
+[35m[1mScanning dependencies of target hotword_detector[0m
+[  6%] [34m[1mGenerating dynamic reconfigure files from cfg/SnowboyReconfigure.cfg: /home/rob/baxter/devel/.private/snowboy_ros/include/snowboy_ros/SnowboyReconfigureConfig.h /home/rob/baxter/devel/.private/snowboy_ros/lib/python2.7/dist-packages/snowboy_ros/cfg/SnowboyReconfigureConfig.py[0m
+[ 13%] [32mBuilding CXX object CMakeFiles/hotword_detector.dir/src/hotword_detector.cpp.o[0m
+Generating reconfiguration files for SnowboyReconfigure in snowboy_ros
+Wrote header file in /home/rob/baxter/devel/.private/snowboy_ros/include/snowboy_ros/SnowboyReconfigureConfig.h
+[ 13%] Built target snowboy_ros_gencfg
+[ 20%] [32m[1mLinking CXX shared library /home/rob/baxter/devel/.private/snowboy_ros/lib/libhotword_detector.so[0m
+[ 20%] Built target hotword_detector
+[35m[1mScanning dependencies of target hotword_detector_node6[0m
+[35m[1mScanning dependencies of target hotword_detector_node4[0m
+[35m[1mScanning dependencies of target hotword_detector_node5[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/hotword_detector_node4.dir/src/hotword_detector_node4.cpp.o[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/hotword_detector_node5.dir/src/hotword_detector_node5.cpp.o[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/hotword_detector_node6.dir/src/hotword_detector_node6.cpp.o[0m
+[35m[1mScanning dependencies of target hotword_detector_node3[0m
+[35m[1mScanning dependencies of target hotword_detector_node[0m
+[35m[1mScanning dependencies of target hotword_detector_node2[0m
+[ 46%] [32mBuilding CXX object CMakeFiles/hotword_detector_node3.dir/src/hotword_detector_node3.cpp.o[0m
+[ 53%] [32mBuilding CXX object CMakeFiles/hotword_detector_node.dir/src/hotword_detector_node.cpp.o[0m
+[ 60%] [32mBuilding CXX object CMakeFiles/hotword_detector_node2.dir/src/hotword_detector_node2.cpp.o[0m
+[ 66%] [32m[1mLinking CXX executable /home/rob/baxter/devel/.private/snowboy_ros/lib/snowboy_ros/hotword_detector_node6[0m
+[ 73%] [32m[1mLinking CXX executable /home/rob/baxter/devel/.private/snowboy_ros/lib/snowboy_ros/hotword_detector_node5[0m
+[ 73%] Built target hotword_detector_node6
+[ 73%] Built target hotword_detector_node5
+[ 80%] [32m[1mLinking CXX executable /home/rob/baxter/devel/.private/snowboy_ros/lib/snowboy_ros/hotword_detector_node2[0m
+[ 86%] [32m[1mLinking CXX executable /home/rob/baxter/devel/.private/snowboy_ros/lib/snowboy_ros/hotword_detector_node3[0m
+[ 93%] [32m[1mLinking CXX executable /home/rob/baxter/devel/.private/snowboy_ros/lib/snowboy_ros/hotword_detector_node4[0m
+[100%] [32m[1mLinking CXX executable /home/rob/baxter/devel/.private/snowboy_ros/lib/snowboy_ros/hotword_detector_node[0m
+[100%] Built target hotword_detector_node2
+[100%] Built target hotword_detector_node3
+[100%] Built target hotword_detector_node4
+[100%] Built target hotword_detector_node

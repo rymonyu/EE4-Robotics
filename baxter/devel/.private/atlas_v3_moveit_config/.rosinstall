@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/rob/baxter/devel/.private/atlas_v3_moveit_config/setup.sh

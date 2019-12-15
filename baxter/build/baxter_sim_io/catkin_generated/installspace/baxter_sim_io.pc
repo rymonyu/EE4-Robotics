@@ -1,0 +1,8 @@
+prefix=/home/rob/baxter/install
+
+Name: baxter_sim_io
+Description: Description of baxter_sim_io
+Version: 1.2.12
+Cflags: -I/home/rob/baxter/install/include
+Libs: -L/home/rob/baxter/install/lib -lbaxter_sim_io
+Requires: baxter_core_msgs

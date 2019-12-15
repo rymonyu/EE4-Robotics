@@ -1,0 +1,1 @@
+/home/rob/baxter/devel/.private/baxter_core_msgs/share/roseus/ros/baxter_core_msgs/msg/AssemblyStates.l

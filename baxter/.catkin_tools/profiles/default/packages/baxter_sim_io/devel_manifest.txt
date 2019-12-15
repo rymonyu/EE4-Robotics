@@ -1,0 +1,6 @@
+baxter_simulator/baxter_sim_io
+/home/rob/baxter/devel/.private/baxter_sim_io/cmake.lock /home/rob/baxter/devel/./cmake.lock
+/home/rob/baxter/devel/.private/baxter_sim_io/share/baxter_sim_io/cmake/baxter_sim_ioConfig-version.cmake /home/rob/baxter/devel/share/baxter_sim_io/cmake/baxter_sim_ioConfig-version.cmake
+/home/rob/baxter/devel/.private/baxter_sim_io/share/baxter_sim_io/cmake/baxter_sim_ioConfig.cmake /home/rob/baxter/devel/share/baxter_sim_io/cmake/baxter_sim_ioConfig.cmake
+/home/rob/baxter/devel/.private/baxter_sim_io/lib/pkgconfig/baxter_sim_io.pc /home/rob/baxter/devel/lib/pkgconfig/baxter_sim_io.pc
+/home/rob/baxter/devel/.private/baxter_sim_io/lib/baxter_sim_io/baxter_sim_io /home/rob/baxter/devel/lib/baxter_sim_io/baxter_sim_io

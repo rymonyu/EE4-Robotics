@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rob/baxter/src/snowboy_ros/3rdparty/snowboy/include/snowboy-detect.h
+memory
+-
+string
+-
+
+/home/rob/baxter/src/snowboy_ros/include/snowboy_ros/hotword_detector.h
+snowboy/include/snowboy-detect.h
+-
+
+/home/rob/baxter/src/snowboy_ros/src/hotword_detector.cpp
+snowboy_ros/hotword_detector.h
+/home/rob/baxter/src/snowboy_ros/src/snowboy_ros/hotword_detector.h
+sstream
+-
+

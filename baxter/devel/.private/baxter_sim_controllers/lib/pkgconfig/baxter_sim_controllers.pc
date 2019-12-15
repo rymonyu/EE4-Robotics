@@ -1,0 +1,8 @@
+prefix=/home/rob/baxter/devel/.private/baxter_sim_controllers
+
+Name: baxter_sim_controllers
+Description: Description of baxter_sim_controllers
+Version: 1.2.12
+Cflags: -I/home/rob/baxter/src/baxter_simulator/baxter_sim_controllers/include
+Libs: -L/home/rob/baxter/devel/.private/baxter_sim_controllers/lib -lbaxter_sim_controllers
+Requires: controller_interface control_toolbox effort_controllers baxter_core_msgs

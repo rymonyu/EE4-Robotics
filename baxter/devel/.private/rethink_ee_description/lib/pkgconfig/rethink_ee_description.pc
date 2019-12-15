@@ -1,0 +1,8 @@
+prefix=/home/rob/baxter/devel/.private/rethink_ee_description
+
+Name: rethink_ee_description
+Description: Description of rethink_ee_description
+Version: 1.2.0
+Cflags: 
+Libs: -L/home/rob/baxter/devel/.private/rethink_ee_description/lib 
+Requires: 

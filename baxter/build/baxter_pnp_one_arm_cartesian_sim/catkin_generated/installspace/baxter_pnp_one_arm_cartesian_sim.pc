@@ -1,0 +1,8 @@
+prefix=/home/rob/baxter/install
+
+Name: baxter_pnp_one_arm_cartesian_sim
+Description: Description of baxter_pnp_one_arm_cartesian_sim
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/rob/baxter/install/lib -lbaxter_pnp_one_arm_cartesian_sim
+Requires: OpenCv roscpp sensor_msg/Image rospy rospack baxter_core_msgs baxter_gazebo baxter_interface baxter_tools baxter_tools gazebo_ros gazebo_msgs

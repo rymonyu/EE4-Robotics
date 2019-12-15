@@ -1,0 +1,8 @@
+prefix=/home/rob/baxter/devel/.private/gazebo_dev
+
+Name: gazebo_dev
+Description: Description of gazebo_dev
+Version: 2.5.19
+Cflags: 
+Libs: -L/home/rob/baxter/devel/.private/gazebo_dev/lib 
+Requires: 

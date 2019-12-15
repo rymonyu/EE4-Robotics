@@ -1,0 +1,8 @@
+prefix=/home/rob/baxter/install
+
+Name: baxter_pnp_basket_cartesian
+Description: Description of baxter_pnp_basket_cartesian
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/rob/baxter/install/lib -lbaxter_pnp_basket_cartesian
+Requires: OpenCv roscpp sensor_msg/Image

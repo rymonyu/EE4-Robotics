@@ -1,0 +1,4 @@
+Symlinking /home/rob/baxter/devel/share/moveit_python/cmake/moveit_pythonConfig-version.cmake
+Symlinking /home/rob/baxter/devel/share/moveit_python/cmake/moveit_pythonConfig.cmake
+Symlinking /home/rob/baxter/devel/lib/pkgconfig/moveit_python.pc
+Symlinking /home/rob/baxter/devel/lib/python2.7/dist-packages/moveit_python/__init__.py

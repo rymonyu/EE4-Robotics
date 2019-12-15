@@ -1,0 +1,6 @@
+moveit_robots/baxter/baxter_ikfast_right_arm_plugin
+/home/rob/baxter/devel/.private/baxter_ikfast_right_arm_plugin/cmake.lock /home/rob/baxter/devel/./cmake.lock
+/home/rob/baxter/devel/.private/baxter_ikfast_right_arm_plugin/share/baxter_ikfast_right_arm_plugin/cmake/baxter_ikfast_right_arm_pluginConfig.cmake /home/rob/baxter/devel/share/baxter_ikfast_right_arm_plugin/cmake/baxter_ikfast_right_arm_pluginConfig.cmake
+/home/rob/baxter/devel/.private/baxter_ikfast_right_arm_plugin/share/baxter_ikfast_right_arm_plugin/cmake/baxter_ikfast_right_arm_pluginConfig-version.cmake /home/rob/baxter/devel/share/baxter_ikfast_right_arm_plugin/cmake/baxter_ikfast_right_arm_pluginConfig-version.cmake
+/home/rob/baxter/devel/.private/baxter_ikfast_right_arm_plugin/lib/libbaxter_right_arm_moveit_ikfast_plugin.so /home/rob/baxter/devel/lib/libbaxter_right_arm_moveit_ikfast_plugin.so
+/home/rob/baxter/devel/.private/baxter_ikfast_right_arm_plugin/lib/pkgconfig/baxter_ikfast_right_arm_plugin.pc /home/rob/baxter/devel/lib/pkgconfig/baxter_ikfast_right_arm_plugin.pc

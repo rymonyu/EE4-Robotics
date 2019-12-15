@@ -1,0 +1,1 @@
+/home/rob/baxter/devel/.private/baxter_examples/include/baxter_examples/JointSpringsExampleConfig.h

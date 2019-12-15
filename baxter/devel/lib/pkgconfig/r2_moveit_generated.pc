@@ -1,0 +1,1 @@
+/home/rob/baxter/devel/.private/r2_moveit_generated/lib/pkgconfig/r2_moveit_generated.pc

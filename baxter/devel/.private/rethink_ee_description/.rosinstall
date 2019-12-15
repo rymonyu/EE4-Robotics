@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/rob/baxter/devel/.private/rethink_ee_description/setup.sh

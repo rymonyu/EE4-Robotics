@@ -1,0 +1,1 @@
+/home/rob/baxter/devel/.private/gazebo_msgs/lib/pkgconfig/gazebo_msgs.pc

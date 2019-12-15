@@ -1,0 +1,8 @@
+prefix=/home/rob/baxter/install
+
+Name: baxter_moveit_tutorial
+Description: Description of baxter_moveit_tutorial
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/rob/baxter/install/lib 
+Requires: 

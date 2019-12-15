@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/rob/baxter/devel/.private/r2_moveit_generated/setup.sh

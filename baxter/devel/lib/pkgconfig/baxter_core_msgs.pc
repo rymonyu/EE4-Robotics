@@ -1,0 +1,1 @@
+/home/rob/baxter/devel/.private/baxter_core_msgs/lib/pkgconfig/baxter_core_msgs.pc

@@ -1,0 +1,12 @@
+Symlinking /home/rob/baxter/devel/./cmake.lock
+Symlinking /home/rob/baxter/devel/./env.sh
+Symlinking /home/rob/baxter/devel/./local_setup.sh
+Symlinking /home/rob/baxter/devel/./setup.sh
+Symlinking /home/rob/baxter/devel/./setup.bash
+Symlinking /home/rob/baxter/devel/./_setup_util.py
+Symlinking /home/rob/baxter/devel/./local_setup.zsh
+Symlinking /home/rob/baxter/devel/./setup.zsh
+Symlinking /home/rob/baxter/devel/./local_setup.bash
+Symlinking /home/rob/baxter/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/rob/baxter/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/rob/baxter/devel/lib/pkgconfig/catkin_tools_prebuild.pc

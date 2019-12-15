@@ -1,0 +1,7 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~sensitivity" : \b [double] Snowboy sensitivity min: 0.0, default: 0.5, max: 1.0
+- \b "~audio_gain" : \b [double] Snowboy audio gain min: 0.01, default: 1.0, max: 10.0
+

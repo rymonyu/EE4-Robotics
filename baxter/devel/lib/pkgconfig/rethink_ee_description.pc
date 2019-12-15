@@ -1,0 +1,1 @@
+/home/rob/baxter/devel/.private/rethink_ee_description/lib/pkgconfig/rethink_ee_description.pc

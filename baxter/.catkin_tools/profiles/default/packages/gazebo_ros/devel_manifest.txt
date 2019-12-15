@@ -1,0 +1,14 @@
+gazebo_ros_pkgs/gazebo_ros
+/home/rob/baxter/devel/.private/gazebo_ros/cmake.lock /home/rob/baxter/devel/./cmake.lock
+/home/rob/baxter/devel/.private/gazebo_ros/include/gazebo_ros/PhysicsConfig.h /home/rob/baxter/devel/include/gazebo_ros/PhysicsConfig.h
+/home/rob/baxter/devel/.private/gazebo_ros/share/gazebo_ros/cmake/gazebo_rosConfig-version.cmake /home/rob/baxter/devel/share/gazebo_ros/cmake/gazebo_rosConfig-version.cmake
+/home/rob/baxter/devel/.private/gazebo_ros/share/gazebo_ros/cmake/gazebo_rosConfig.cmake /home/rob/baxter/devel/share/gazebo_ros/cmake/gazebo_rosConfig.cmake
+/home/rob/baxter/devel/.private/gazebo_ros/share/gazebo_ros/docs/PhysicsConfig-usage.dox /home/rob/baxter/devel/share/gazebo_ros/docs/PhysicsConfig-usage.dox
+/home/rob/baxter/devel/.private/gazebo_ros/share/gazebo_ros/docs/PhysicsConfig.wikidoc /home/rob/baxter/devel/share/gazebo_ros/docs/PhysicsConfig.wikidoc
+/home/rob/baxter/devel/.private/gazebo_ros/share/gazebo_ros/docs/PhysicsConfig.dox /home/rob/baxter/devel/share/gazebo_ros/docs/PhysicsConfig.dox
+/home/rob/baxter/devel/.private/gazebo_ros/lib/libgazebo_ros_paths_plugin.so /home/rob/baxter/devel/lib/libgazebo_ros_paths_plugin.so
+/home/rob/baxter/devel/.private/gazebo_ros/lib/libgazebo_ros_api_plugin.so /home/rob/baxter/devel/lib/libgazebo_ros_api_plugin.so
+/home/rob/baxter/devel/.private/gazebo_ros/lib/pkgconfig/gazebo_ros.pc /home/rob/baxter/devel/lib/pkgconfig/gazebo_ros.pc
+/home/rob/baxter/devel/.private/gazebo_ros/lib/python2.7/dist-packages/gazebo_ros/__init__.py /home/rob/baxter/devel/lib/python2.7/dist-packages/gazebo_ros/__init__.py
+/home/rob/baxter/devel/.private/gazebo_ros/lib/python2.7/dist-packages/gazebo_ros/cfg/__init__.py /home/rob/baxter/devel/lib/python2.7/dist-packages/gazebo_ros/cfg/__init__.py
+/home/rob/baxter/devel/.private/gazebo_ros/lib/python2.7/dist-packages/gazebo_ros/cfg/PhysicsConfig.py /home/rob/baxter/devel/lib/python2.7/dist-packages/gazebo_ros/cfg/PhysicsConfig.py

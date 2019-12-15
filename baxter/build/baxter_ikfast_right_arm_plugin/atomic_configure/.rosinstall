@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/rob/baxter/devel/.private/baxter_ikfast_right_arm_plugin/setup.sh

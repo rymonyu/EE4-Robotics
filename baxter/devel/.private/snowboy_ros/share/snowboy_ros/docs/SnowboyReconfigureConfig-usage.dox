@@ -1,0 +1,8 @@
+\subsubsection usage Usage
+\verbatim
+<node name="snowboy_ros" pkg="snowboy_ros" type="snowboy_ros">
+  <param name="sensitivity" type="double" value="0.5" />
+  <param name="audio_gain" type="double" value="1.0" />
+</node>
+\endverbatim
+

@@ -1,0 +1,13 @@
+baxter_examples
+/home/rob/baxter/devel/.private/baxter_examples/cmake.lock /home/rob/baxter/devel/./cmake.lock
+/home/rob/baxter/devel/.private/baxter_examples/include/baxter_examples/JointSpringsExampleConfig.h /home/rob/baxter/devel/include/baxter_examples/JointSpringsExampleConfig.h
+/home/rob/baxter/devel/.private/baxter_examples/share/baxter_examples/cmake/baxter_examplesConfig.cmake /home/rob/baxter/devel/share/baxter_examples/cmake/baxter_examplesConfig.cmake
+/home/rob/baxter/devel/.private/baxter_examples/share/baxter_examples/cmake/baxter_examplesConfig-version.cmake /home/rob/baxter/devel/share/baxter_examples/cmake/baxter_examplesConfig-version.cmake
+/home/rob/baxter/devel/.private/baxter_examples/share/baxter_examples/docs/JointSpringsExampleConfig.dox /home/rob/baxter/devel/share/baxter_examples/docs/JointSpringsExampleConfig.dox
+/home/rob/baxter/devel/.private/baxter_examples/share/baxter_examples/docs/JointSpringsExampleConfig.wikidoc /home/rob/baxter/devel/share/baxter_examples/docs/JointSpringsExampleConfig.wikidoc
+/home/rob/baxter/devel/.private/baxter_examples/share/baxter_examples/docs/JointSpringsExampleConfig-usage.dox /home/rob/baxter/devel/share/baxter_examples/docs/JointSpringsExampleConfig-usage.dox
+/home/rob/baxter/devel/.private/baxter_examples/lib/pkgconfig/baxter_examples.pc /home/rob/baxter/devel/lib/pkgconfig/baxter_examples.pc
+/home/rob/baxter/devel/.private/baxter_examples/lib/python2.7/dist-packages/baxter_external_devices/__init__.py /home/rob/baxter/devel/lib/python2.7/dist-packages/baxter_external_devices/__init__.py
+/home/rob/baxter/devel/.private/baxter_examples/lib/python2.7/dist-packages/baxter_examples/__init__.py /home/rob/baxter/devel/lib/python2.7/dist-packages/baxter_examples/__init__.py
+/home/rob/baxter/devel/.private/baxter_examples/lib/python2.7/dist-packages/baxter_examples/cfg/JointSpringsExampleConfig.py /home/rob/baxter/devel/lib/python2.7/dist-packages/baxter_examples/cfg/JointSpringsExampleConfig.py
+/home/rob/baxter/devel/.private/baxter_examples/lib/python2.7/dist-packages/baxter_examples/cfg/__init__.py /home/rob/baxter/devel/lib/python2.7/dist-packages/baxter_examples/cfg/__init__.py

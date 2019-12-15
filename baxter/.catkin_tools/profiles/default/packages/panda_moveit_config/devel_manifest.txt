@@ -1,0 +1,5 @@
+panda_moveit_config
+/home/rob/baxter/devel/.private/panda_moveit_config/cmake.lock /home/rob/baxter/devel/./cmake.lock
+/home/rob/baxter/devel/.private/panda_moveit_config/share/panda_moveit_config/cmake/panda_moveit_configConfig-version.cmake /home/rob/baxter/devel/share/panda_moveit_config/cmake/panda_moveit_configConfig-version.cmake
+/home/rob/baxter/devel/.private/panda_moveit_config/share/panda_moveit_config/cmake/panda_moveit_configConfig.cmake /home/rob/baxter/devel/share/panda_moveit_config/cmake/panda_moveit_configConfig.cmake
+/home/rob/baxter/devel/.private/panda_moveit_config/lib/pkgconfig/panda_moveit_config.pc /home/rob/baxter/devel/lib/pkgconfig/panda_moveit_config.pc

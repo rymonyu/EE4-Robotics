@@ -1,0 +1,5 @@
+gazebo_ros_pkgs/gazebo_dev
+/home/rob/baxter/devel/.private/gazebo_dev/cmake.lock /home/rob/baxter/devel/./cmake.lock
+/home/rob/baxter/devel/.private/gazebo_dev/share/gazebo_dev/cmake/gazebo_devConfig.cmake /home/rob/baxter/devel/share/gazebo_dev/cmake/gazebo_devConfig.cmake
+/home/rob/baxter/devel/.private/gazebo_dev/share/gazebo_dev/cmake/gazebo_devConfig-version.cmake /home/rob/baxter/devel/share/gazebo_dev/cmake/gazebo_devConfig-version.cmake
+/home/rob/baxter/devel/.private/gazebo_dev/lib/pkgconfig/gazebo_dev.pc /home/rob/baxter/devel/lib/pkgconfig/gazebo_dev.pc

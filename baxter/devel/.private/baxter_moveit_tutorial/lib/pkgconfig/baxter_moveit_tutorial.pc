@@ -1,0 +1,8 @@
+prefix=/home/rob/baxter/devel/.private/baxter_moveit_tutorial
+
+Name: baxter_moveit_tutorial
+Description: Description of baxter_moveit_tutorial
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/rob/baxter/devel/.private/baxter_moveit_tutorial/lib 
+Requires: 

@@ -1,0 +1,55 @@
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/rob/baxter/build/baxter_ikfast_left_arm_plugin/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_69604/fast"
+/usr/bin/make -f CMakeFiles/cmTC_69604.dir/build.make CMakeFiles/cmTC_69604.dir/build
+make[1]: Entering directory '/home/rob/baxter/build/baxter_ikfast_left_arm_plugin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_69604.dir/CheckSymbolExists.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_69604.dir/CheckSymbolExists.c.o   -c /home/rob/baxter/build/baxter_ikfast_left_arm_plugin/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_69604
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_69604.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTC_69604.dir/CheckSymbolExists.c.o  -o cmTC_69604 -rdynamic 
+CMakeFiles/cmTC_69604.dir/CheckSymbolExists.c.o: In function `main':
+CheckSymbolExists.c:(.text+0x16): undefined reference to `pthread_create'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_69604.dir/build.make:97: recipe for target 'cmTC_69604' failed
+make[1]: *** [cmTC_69604] Error 1
+make[1]: Leaving directory '/home/rob/baxter/build/baxter_ikfast_left_arm_plugin/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_69604/fast' failed
+make: *** [cmTC_69604/fast] Error 2
+
+File /home/rob/baxter/build/baxter_ikfast_left_arm_plugin/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /home/rob/baxter/build/baxter_ikfast_left_arm_plugin/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_d6263/fast"
+/usr/bin/make -f CMakeFiles/cmTC_d6263.dir/build.make CMakeFiles/cmTC_d6263.dir/build
+make[1]: Entering directory '/home/rob/baxter/build/baxter_ikfast_left_arm_plugin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_d6263.dir/CheckFunctionExists.c.o
+/usr/bin/cc    -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_d6263.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_d6263
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d6263.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTC_d6263.dir/CheckFunctionExists.c.o  -o cmTC_d6263 -rdynamic -lpthreads 
+/usr/bin/ld: cannot find -lpthreads
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_d6263.dir/build.make:97: recipe for target 'cmTC_d6263' failed
+make[1]: *** [cmTC_d6263] Error 1
+make[1]: Leaving directory '/home/rob/baxter/build/baxter_ikfast_left_arm_plugin/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_d6263/fast' failed
+make: *** [cmTC_d6263/fast] Error 2
+
+

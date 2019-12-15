@@ -1,0 +1,8 @@
+[  6%] Built target snowboy_ros_gencfg
+[ 20%] Built target hotword_detector
+[ 33%] Built target hotword_detector_node6
+[ 46%] Built target hotword_detector_node5
+[ 60%] Built target hotword_detector_node4
+[ 73%] Built target hotword_detector_node3
+[ 86%] Built target hotword_detector_node
+[100%] Built target hotword_detector_node2

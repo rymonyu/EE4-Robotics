@@ -1,0 +1,8 @@
+prefix=/home/rob/baxter/install
+
+Name: sound_play
+Description: Description of sound_play
+Version: 0.3.3
+Cflags: -I/home/rob/baxter/install/include
+Libs: -L/home/rob/baxter/install/lib 
+Requires: message_runtime actionlib_msgs

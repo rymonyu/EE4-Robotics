@@ -1,0 +1,8 @@
+prefix=/home/rob/baxter/devel/.private/moveit_python
+
+Name: moveit_python
+Description: Description of moveit_python
+Version: 0.3.3
+Cflags: 
+Libs: -L/home/rob/baxter/devel/.private/moveit_python/lib 
+Requires: 

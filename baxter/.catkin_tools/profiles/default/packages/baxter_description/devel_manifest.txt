@@ -1,0 +1,5 @@
+baxter_common/baxter_description
+/home/rob/baxter/devel/.private/baxter_description/cmake.lock /home/rob/baxter/devel/./cmake.lock
+/home/rob/baxter/devel/.private/baxter_description/share/baxter_description/cmake/baxter_descriptionConfig-version.cmake /home/rob/baxter/devel/share/baxter_description/cmake/baxter_descriptionConfig-version.cmake
+/home/rob/baxter/devel/.private/baxter_description/share/baxter_description/cmake/baxter_descriptionConfig.cmake /home/rob/baxter/devel/share/baxter_description/cmake/baxter_descriptionConfig.cmake
+/home/rob/baxter/devel/.private/baxter_description/lib/pkgconfig/baxter_description.pc /home/rob/baxter/devel/lib/pkgconfig/baxter_description.pc

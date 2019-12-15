@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<launch>
+    <arg name="publish_wave" default="false" />
+
+    <node name="audio_capture" pkg="audio_capture" type="audio_capture" output="screen" required="true">
+        <param name="format" value="wave" />
+        <param name="channels" value="1" />
+        <param name="depth" value="16" />
+        <param name="sample_rate" value="16000" />
+
+        <remap from="audio" to="microphone" />
+    </node>
+
+    <node pkg="snowboy_ros" type="hotword_detector_node" name="snowboy" required="true">
+        <param name="resource_filename" value="$(find snowboy_ros)/resources/common.res"/>
+        <param name="model_filename" value="$(find snowboy_ros)/resources/graby.pmdl"/>
+        <param name="sensitivity_str" value="0.5" type="str" />
+        <param name="audio_gain" value="1.0"/>
+        <param name="publish_wave" value="$(arg publish_wave)" />
+    </node>
+</launch>

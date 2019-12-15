@@ -1,0 +1,1 @@
+/home/rob/baxter/devel/.private/atlas_v3_moveit_config/lib/pkgconfig/atlas_v3_moveit_config.pc

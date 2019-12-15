@@ -1,0 +1,7 @@
+baxter_simulator/baxter_sim_kinematics
+/home/rob/baxter/devel/.private/baxter_sim_kinematics/cmake.lock /home/rob/baxter/devel/./cmake.lock
+/home/rob/baxter/devel/.private/baxter_sim_kinematics/share/baxter_sim_kinematics/cmake/baxter_sim_kinematicsConfig.cmake /home/rob/baxter/devel/share/baxter_sim_kinematics/cmake/baxter_sim_kinematicsConfig.cmake
+/home/rob/baxter/devel/.private/baxter_sim_kinematics/share/baxter_sim_kinematics/cmake/baxter_sim_kinematicsConfig-version.cmake /home/rob/baxter/devel/share/baxter_sim_kinematics/cmake/baxter_sim_kinematicsConfig-version.cmake
+/home/rob/baxter/devel/.private/baxter_sim_kinematics/lib/libbaxter_sim_kinematics.so /home/rob/baxter/devel/lib/libbaxter_sim_kinematics.so
+/home/rob/baxter/devel/.private/baxter_sim_kinematics/lib/baxter_sim_kinematics/kinematics /home/rob/baxter/devel/lib/baxter_sim_kinematics/kinematics
+/home/rob/baxter/devel/.private/baxter_sim_kinematics/lib/pkgconfig/baxter_sim_kinematics.pc /home/rob/baxter/devel/lib/pkgconfig/baxter_sim_kinematics.pc

@@ -1,0 +1,1 @@
+/home/rob/baxter/devel/.private/gazebo_plugins/include/gazebo_plugins/CameraSynchronizerConfig.h

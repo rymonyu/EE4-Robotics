@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/rob/baxter/devel/.private/baxter_pnp_basket_cartesian/setup.sh

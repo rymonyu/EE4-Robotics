@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/gazebo_msgs_generate_messages_lisp"
+  "/home/rob/baxter/devel/.private/gazebo_msgs/share/common-lisp/ros/gazebo_msgs/msg/LinkStates.lisp"
+  "/home/rob/baxter/devel/.private/gazebo_msgs/share/common-lisp/ros/gazebo_msgs/msg/ContactState.lisp"
+  "/home/rob/baxter/devel/.private/gazebo_msgs/share/common-lisp/ros/gazebo_msgs/msg/ODEPhysics.lisp"
+  "/home/rob/baxter/devel/.private/gazebo_msgs/share/common-lisp/ros/gazebo_msgs/msg/ModelStates.lisp"
+  "/home/rob/baxter/devel/.private/gazebo_msgs/share/common-lisp/ros/gazebo_msgs/msg/WorldState.lisp"
+  "/home/rob/baxter/devel/.private/gazebo_msgs/share/common-lisp/ros/gazebo_msgs/msg/ModelState.lisp"
+  "/home/rob/baxter/devel/.private/gazebo_msgs/share/common-lisp/ros/gazebo_msgs/msg/ODEJointProperties.lisp"
+  "/home/rob/baxter/devel/.private/gazebo_msgs/share/common-lisp/ros/gazebo_msgs/msg/ContactsState.lisp"
+  "/home/rob/baxter/devel/.private/gazebo_msgs/share/common-lisp/ros/gazebo_msgs/msg/LinkState.lisp"
+  "/home/rob/baxter/devel/.private/gazebo_msgs/share/common-lisp/ros/gazebo_msgs/srv/SetJointTrajectory.lisp"
+  "/home/rob/baxter/devel/.private/gazebo_msgs/share/common-lisp/ros/gazebo_msgs/srv/SpawnModel.lisp"
+  "/home/rob/baxter/devel/.private/gazebo_msgs/share/common-lisp/ros/gazebo_msgs/srv/SetJointProperties.lisp"
+  "/home/rob/baxter/devel/.private/gazebo_msgs/share/common-lisp/ros/gazebo_msgs/srv/SetModelConfiguration.lisp"
+  "/home/rob/baxter/devel/.private/gazebo_msgs/share/common-lisp/ros/gazebo_msgs/srv/SetPhysicsProperties.lisp"
+  "/home/rob/baxter/devel/.private/gazebo_msgs/share/common-lisp/ros/gazebo_msgs/srv/SetLinkState.lisp"
+  "/home/rob/baxter/devel/.private/gazebo_msgs/share/common-lisp/ros/gazebo_msgs/srv/ApplyJointEffort.lisp"
+  "/home/rob/baxter/devel/.private/gazebo_msgs/share/common-lisp/ros/gazebo_msgs/srv/SetLightProperties.lisp"
+  "/home/rob/baxter/devel/.private/gazebo_msgs/share/common-lisp/ros/gazebo_msgs/srv/SetLinkProperties.lisp"
+  "/home/rob/baxter/devel/.private/gazebo_msgs/share/common-lisp/ros/gazebo_msgs/srv/GetPhysicsProperties.lisp"
+  "/home/rob/baxter/devel/.private/gazebo_msgs/share/common-lisp/ros/gazebo_msgs/srv/DeleteModel.lisp"
+  "/home/rob/baxter/devel/.private/gazebo_msgs/share/common-lisp/ros/gazebo_msgs/srv/GetModelState.lisp"
+  "/home/rob/baxter/devel/.private/gazebo_msgs/share/common-lisp/ros/gazebo_msgs/srv/ApplyBodyWrench.lisp"
+  "/home/rob/baxter/devel/.private/gazebo_msgs/share/common-lisp/ros/gazebo_msgs/srv/GetModelProperties.lisp"
+  "/home/rob/baxter/devel/.private/gazebo_msgs/share/common-lisp/ros/gazebo_msgs/srv/SetModelState.lisp"
+  "/home/rob/baxter/devel/.private/gazebo_msgs/share/common-lisp/ros/gazebo_msgs/srv/BodyRequest.lisp"
+  "/home/rob/baxter/devel/.private/gazebo_msgs/share/common-lisp/ros/gazebo_msgs/srv/GetLinkState.lisp"
+  "/home/rob/baxter/devel/.private/gazebo_msgs/share/common-lisp/ros/gazebo_msgs/srv/GetWorldProperties.lisp"
+  "/home/rob/baxter/devel/.private/gazebo_msgs/share/common-lisp/ros/gazebo_msgs/srv/GetJointProperties.lisp"
+  "/home/rob/baxter/devel/.private/gazebo_msgs/share/common-lisp/ros/gazebo_msgs/srv/DeleteLight.lisp"
+  "/home/rob/baxter/devel/.private/gazebo_msgs/share/common-lisp/ros/gazebo_msgs/srv/JointRequest.lisp"
+  "/home/rob/baxter/devel/.private/gazebo_msgs/share/common-lisp/ros/gazebo_msgs/srv/GetLightProperties.lisp"
+  "/home/rob/baxter/devel/.private/gazebo_msgs/share/common-lisp/ros/gazebo_msgs/srv/GetLinkProperties.lisp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/gazebo_msgs_generate_messages_lisp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

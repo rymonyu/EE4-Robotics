@@ -1,0 +1,6 @@
+baxter_simulator/baxter_gazebo
+/home/rob/baxter/devel/.private/baxter_gazebo/cmake.lock /home/rob/baxter/devel/./cmake.lock
+/home/rob/baxter/devel/.private/baxter_gazebo/share/baxter_gazebo/cmake/baxter_gazeboConfig-version.cmake /home/rob/baxter/devel/share/baxter_gazebo/cmake/baxter_gazeboConfig-version.cmake
+/home/rob/baxter/devel/.private/baxter_gazebo/share/baxter_gazebo/cmake/baxter_gazeboConfig.cmake /home/rob/baxter/devel/share/baxter_gazebo/cmake/baxter_gazeboConfig.cmake
+/home/rob/baxter/devel/.private/baxter_gazebo/lib/libbaxter_gazebo_ros_control.so /home/rob/baxter/devel/lib/libbaxter_gazebo_ros_control.so
+/home/rob/baxter/devel/.private/baxter_gazebo/lib/pkgconfig/baxter_gazebo.pc /home/rob/baxter/devel/lib/pkgconfig/baxter_gazebo.pc

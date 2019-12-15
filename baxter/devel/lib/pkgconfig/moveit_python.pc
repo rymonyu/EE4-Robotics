@@ -1,0 +1,1 @@
+/home/rob/baxter/devel/.private/moveit_python/lib/pkgconfig/moveit_python.pc

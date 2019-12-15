@@ -1,0 +1,8 @@
+prefix=/home/rob/baxter/devel/.private/sound_play
+
+Name: sound_play
+Description: Description of sound_play
+Version: 0.3.3
+Cflags: -I/home/rob/baxter/devel/.private/sound_play/include -I/home/rob/baxter/src/sound_play/include
+Libs: -L/home/rob/baxter/devel/.private/sound_play/lib 
+Requires: message_runtime actionlib_msgs

@@ -1,0 +1,12 @@
+[  5%] Built target snowboy_ros_gencfg
+[ 17%] Built target hotword_detector
+[35m[1mScanning dependencies of target hotword_detector_node8[0m
+[ 47%] Built target hotword_detector_node3
+[ 47%] Built target hotword_detector_node
+[ 52%] Built target hotword_detector_node2
+[ 64%] Built target hotword_detector_node7
+[ 76%] Built target hotword_detector_node6
+[ 88%] Built target hotword_detector_node5
+[ 94%] [32mBuilding CXX object CMakeFiles/hotword_detector_node8.dir/src/hotword_detector_node8.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/rob/baxter/devel/.private/snowboy_ros/lib/snowboy_ros/hotword_detector_node8[0m
+[100%] Built target hotword_detector_node8

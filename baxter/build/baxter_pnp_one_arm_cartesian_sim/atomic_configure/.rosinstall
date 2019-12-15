@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/rob/baxter/devel/.private/baxter_pnp_one_arm_cartesian_sim/setup.sh

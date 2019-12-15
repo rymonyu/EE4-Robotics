@@ -1,0 +1,1 @@
+/home/rob/baxter/devel/.private/baxter_examples/lib/python2.7/dist-packages/baxter_examples/cfg/JointSpringsExampleConfig.py

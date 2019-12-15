@@ -1,0 +1,18 @@
+[  0%] Built target _baxter_maintenance_msgs_generate_messages_check_deps_UpdateSource
+[  0%] Built target _baxter_maintenance_msgs_generate_messages_check_deps_UpdateStatus
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target _baxter_maintenance_msgs_generate_messages_check_deps_UpdateSources
+[  0%] Built target _baxter_maintenance_msgs_generate_messages_check_deps_CalibrateArmData
+[  0%] Built target _baxter_maintenance_msgs_generate_messages_check_deps_TareData
+[  0%] Built target _baxter_maintenance_msgs_generate_messages_check_deps_CalibrateArmEnable
+[  0%] Built target _baxter_maintenance_msgs_generate_messages_check_deps_TareEnable
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_eus
+[ 21%] Built target baxter_maintenance_msgs_generate_messages_py
+[ 40%] Built target baxter_maintenance_msgs_generate_messages_cpp
+[ 62%] Built target baxter_maintenance_msgs_generate_messages_eus
+[ 81%] Built target baxter_maintenance_msgs_generate_messages_nodejs
+[100%] Built target baxter_maintenance_msgs_generate_messages_lisp
+[100%] Built target baxter_maintenance_msgs_generate_messages

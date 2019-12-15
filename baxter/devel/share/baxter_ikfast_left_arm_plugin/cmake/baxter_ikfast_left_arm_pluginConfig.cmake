@@ -1,0 +1,1 @@
+/home/rob/baxter/devel/.private/baxter_ikfast_left_arm_plugin/share/baxter_ikfast_left_arm_plugin/cmake/baxter_ikfast_left_arm_pluginConfig.cmake

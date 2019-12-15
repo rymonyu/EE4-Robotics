@@ -1,0 +1,6 @@
+devel_space: /home/rob/baxter/devel
+install: false
+install_space: /home/rob/baxter/install
+profile: default
+source_space: /home/rob/baxter/src
+workspace: /home/rob/baxter

@@ -1,0 +1,1 @@
+/home/rob/baxter/devel/.private/baxter_interface/lib/pkgconfig/baxter_interface.pc

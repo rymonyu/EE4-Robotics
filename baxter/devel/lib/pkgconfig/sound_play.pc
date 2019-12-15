@@ -1,0 +1,1 @@
+/home/rob/baxter/devel/.private/sound_play/lib/pkgconfig/sound_play.pc

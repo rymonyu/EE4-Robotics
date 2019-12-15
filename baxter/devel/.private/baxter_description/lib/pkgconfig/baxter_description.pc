@@ -1,0 +1,8 @@
+prefix=/home/rob/baxter/devel/.private/baxter_description
+
+Name: baxter_description
+Description: Description of baxter_description
+Version: 1.2.0
+Cflags: 
+Libs: -L/home/rob/baxter/devel/.private/baxter_description/lib 
+Requires: 
